@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862" alt="Banner" />
+</div>
 
 <!--
 **skillmaker26/skillmaker26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
